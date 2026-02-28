@@ -1,0 +1,58 @@
+{
+  "id": "25N-783",
+  "serie": "",
+  "issueDate": "2025-04-10",
+  "documentCurrency": "EUR",
+  "seller": {
+    "name": "KORTA, S.A",
+    "address": {
+      "streetName": "Joxe Mari Korta Industrigunea 2",
+      "cityName": "ZUMAIA",
+      "postalZone": "20750",
+      "country": null
+    }
+  },
+  "buyer": {
+    "name": "Cliente"
+  },
+  "legalMonetaryTotal": {
+    "payableAmount": 1203.47
+  },
+  "lines": [
+    {
+      "id": "1",
+      "description": "Calibración transductores de fuerza (-100 kg) Certificado-016525 Calibración no acreditada de instrumento de medida de fuerzas marca DS EUROPE _ modelo 546QD de 60kg_",
+      "quantity": 1,
+      "unitPrice": 400,
+      "taxRate": 0.21
+    },
+    {
+      "id": "2",
+      "description": "Calibración transductores de fuerza (-100 kg) Certificado-016625 Calibración no acreditada de instrumento de medida de fuerzas marca DS EUROPE _ modelo 546QD de 60kg",
+      "quantity": 1,
+      "unitPrice": 400,
+      "taxRate": 0.21
+    },
+    {
+      "id": "3",
+      "description": "Gastos de desplazamiento",
+      "quantity": 1,
+      "unitPrice": 194.6,
+      "taxRate": 0.21
+    }
+  ],
+  "taxTotal": {
+    "taxAmount": 208.87,
+    "taxSubtotals": [
+      {
+        "taxRate": 0.21,
+        "taxableAmount": 994.6,
+        "taxAmount": 208.87
+      }
+    ]
+  },
+  "paymentTerms": {
+    "dueDate": "2025-06-10",
+    "note": "Pago domiciliado a 60 dias"
+  }
+}

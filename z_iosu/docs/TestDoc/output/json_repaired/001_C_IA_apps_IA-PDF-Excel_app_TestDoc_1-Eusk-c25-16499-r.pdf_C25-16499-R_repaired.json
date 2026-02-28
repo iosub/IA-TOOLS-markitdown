@@ -1,0 +1,20 @@
+{
+  "id": "C25-16499-R",
+  "serie": "R",
+  "issueDate": "2025-06-15",
+  "documentCurrency": "EUR",
+  "seller": {
+    "name": "MONTTE S.L.",
+    "taxId": "B20062295"
+  },
+  "buyer": {
+    "name": "",
+    "taxId": "ESX0000000A"
+  },
+  "legalMonetaryTotal": {
+    "payableAmount": 373.93
+  },
+  "lines": [],
+  "parsing_recovered": true,
+  "original_error": "Expecting ',' delimiter: line 1 column 1573 (char 1572)"
+}

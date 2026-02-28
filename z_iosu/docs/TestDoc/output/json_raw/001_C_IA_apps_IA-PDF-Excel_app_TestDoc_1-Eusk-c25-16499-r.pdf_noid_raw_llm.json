@@ -1,0 +1,117 @@
+{
+  "invoiceNumber": "C25-16499-R",
+  "issueDate": "2025-06-15",
+  "buyer": {
+    "name": "MONTTE S.L.",
+    "address": {
+      "street": "Poligono Nº 10 (Gudugarreta)",
+      "city": "BEASAIN",
+      "postalCode": "20200",
+      "country": "España"
+    },
+    "taxId": "A20095378",
+    "customerNumber": "34072"
+  },
+  "seller": {
+    "name": "KORTA, S.A.",
+    "address": {
+      "street": "JOSE Mª KORTA INDUSTRIGUNEA 2",
+      "city": "ZUMAIA",
+      "postalCode": "20750",
+      "country": "España"
+    }
+  },
+  "deliveryNotes": [
+    {
+      "number": "C25-22564",
+      "date": "2025-06-03",
+      "orderNumber": "22502071",
+      "items": [
+        {
+          "description": "CAJA 210X297 ETIKETAK",
+          "quantity": 5,
+          "unitPrice": 7.99,
+          "totalAmount": 39.95
+        },
+        {
+          "description": "SARETA ARKATZONTZIA",
+          "quantity": 1,
+          "unitPrice": 2.38,
+          "totalAmount": 2.38
+        }
+      ]
+    },
+    {
+      "number": "C25-22723",
+      "date": "2025-06-04",
+      "orderNumber": "22502071",
+      "items": [
+        {
+          "description": "ROTULADOR EDDING 550 ROJO",
+          "quantity": 22,
+          "unitPrice": 2.31,
+          "totalAmount": 50.82
+        }
+      ]
+    },
+    {
+      "number": "C25-23367",
+      "date": "2025-06-09",
+      "orderNumber": "22502071",
+      "items": [
+        {
+          "description": "ROTULADOR EDDING 550 ROJO",
+          "quantity": 8,
+          "unitPrice": 2.31,
+          "totalAmount": 18.48
+        }
+      ]
+    },
+    {
+      "number": "C25-22954",
+      "date": "2025-06-05",
+      "orderNumber": "22502113",
+      "items": [
+        {
+          "description": "FOTOKOPIAGAILU A-3 PAPERA",
+          "quantity": 15,
+          "unitPrice": 9.58,
+          "totalAmount": 143.7
+        }
+      ]
+    }
+  ],
+  "subTotal": 309.03,
+  "taxes": [
+    {
+      "type": "IVA",
+      "rate": 21,
+      "amount": 64.9
+    }
+  ],
+  "totalAmount": 373.93,
+  "paymentTerms": {
+    "method": "TRANSFERENCIA",
+    "accountNumber": "ES6100814198800001020905",
+    "dueDate": "2025-08-20"
+  },
+  "additionalInformation": {
+    "returnPolicy": "Bezeroak, salgaiak akatsen bat izanez gero jasotzen duenetik 10 eguneko epea du itzultzeko.",
+    "registrationDetails": "1147 orriko 191 folioko Sozietate Liburuaren 372 liburukian Gipuzkoako Merkataritzako errehistroan inskribatua. Lehenengo inskribatzea 601.000 euroko kapital Soziala.",
+    "dataProtection": {
+      "lawReference": "Lege Organikoarekin bat etorriz, gogorarazten dizugu zure datuak MONTTE S.L. erakundearen titulartasuneko fitxategi batean sartu ditugula, zeina behar bezala erregistratu baita Datuak Babesteko Espainiako Bulegoan.",
+      "purpose": "Fitxategiaren helburua kontabilitate, zerga eta administrazio kudeaketa erlazio komertzial eta transakzio ekonomikoen kudeaketa, sarbideen kontrola, bisiten, sarreren eta irteeren agenda, marketineko ekintzak eta publizitate orokorra da.",
+      "rights": {
+        "access": "Pol. Gudugarreta 20-20200 Beasain (Gipuzkoa); edota mezu elektronikobat bidalita helbide honetara: lopd@montte.com",
+        "rectification": "Pol. Gudugarreta 20-20200 Beasain (Gipuzkoa); edota mezu elektronikobat bidalita helbide honetara: lopd@montte.com",
+        "erasure": "Pol. Gudugarreta 20-20200 Beasain (Gipuzkoa); edota mezu elektronikobat bidalita helbide honetara: lopd@montte.com",
+        "objection": "Pol. Gudugarreta 20-20200 Beasain (Gipuzkoa); edota mezu elektronikobat bidalita helbide honetara: lopd@montte.com"
+      }
+    },
+    "packagingRegistration": {
+      "number": "ENV/2024/000044110",
+      "reference": "(Según RD 1055/2022)"
+    },
+    "uniqueIdentifier": "TBAI-B20062295-160625-E1Fjk0RrYR+Gn-033"
+  }
+}

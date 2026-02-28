@@ -1,0 +1,67 @@
+{
+  "id": "2500407",
+  "serie": "02",
+  "issueDate": "2025-03-27",
+  "operationDate": "2025-03-20",
+  "dueDate": "2025-05-26",
+  "documentCurrency": "EUR",
+  "seller": {
+    "name": "KORTA, S.A.U.",
+    "address": {
+      "streetName": null,
+      "cityName": null,
+      "postalZone": null,
+      "country": null
+    }
+  },
+  "buyer": {
+    "name": "RAZYA, S.A.",
+    "taxId": "A01053552",
+    "address": {
+      "streetName": "San Miguel de Acha, 7-9",
+      "cityName": "Vitoria-Gasteiz",
+      "postalZone": "01010",
+      "country": "ES"
+    }
+  },
+  "lines": [
+    {
+      "id": "1",
+      "description": "NITRURACION GASEOSA Ud",
+      "quantity": 64,
+      "unitPrice": 1,
+      "taxRate": 0.21,
+      "albaran": "104258",
+      "deliveryNote": "104258"
+    },
+    {
+      "id": "2",
+      "description": "NITRURACION GASEOSA Ud",
+      "quantity": 64,
+      "unitPrice": 1,
+      "taxRate": 0.21,
+      "albaran": "104484",
+      "deliveryNote": "104484"
+    }
+  ],
+  "taxTotal": {
+    "taxAmount": 26.88,
+    "taxSubtotals": [
+      {
+        "taxRate": 0.21,
+        "taxableAmount": 128,
+        "taxAmount": 26.88
+      }
+    ]
+  },
+  "legalMonetaryTotal": {
+    "lineExtensionAmount": 128,
+    "taxExclusiveAmount": 128,
+    "taxInclusiveAmount": 154.88,
+    "payableAmount": 154.88
+  },
+  "paymentTerms": {
+    "note": "Transferencia bancaria 60 días",
+    "dueDate": "2025-05-26"
+  }
+}

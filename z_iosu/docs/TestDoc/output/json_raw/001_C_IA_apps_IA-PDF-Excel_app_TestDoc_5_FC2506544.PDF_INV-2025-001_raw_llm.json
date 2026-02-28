@@ -1,0 +1,275 @@
+{
+  "id": "INV-2025-001",
+  "serie": "N/A",
+  "issueDate": "2025-06-30",
+  "documentCurrency": "EUR",
+  "seller": {
+    "name": "KORTA S.A.",
+    "taxId": "ESA08508418",
+    "address": {
+      "streetName": "2",
+      "cityName": "Zumaia",
+      "postalZone": "20750",
+      "country": "ES",
+      "region": null,
+      "buildingNumber": null
+    },
+    "contact": null
+  },
+  "buyer": {
+    "name": "J.Mª.KORTA INDUSTRIGUNEA",
+    "taxId": "A20095378",
+    "address": null,
+    "contact": null
+  },
+  "lines": [
+    {
+      "id": "13",
+      "description": "C-H10358 FRESA EC100B22-4C10 IC-900",
+      "quantity": 4,
+      "unitPrice": 107.0,
+      "taxRate": 0.21,
+      "albaran": "CH10358",
+      "deliveryNote": "CH10358"
+    },
+    {
+      "id": "10",
+      "description": "FRESA EC030B10-4C03 IC-900",
+      "quantity": 4,
+      "unitPrice": 48.8,
+      "taxRate": 0.21,
+      "albaran": null,
+      "deliveryNote": null
+    },
+    {
+      "id": "12",
+      "description": "C-H10355 FRESA EC060B16-4C06 IC-900",
+      "quantity": 4,
+      "unitPrice": 54.2,
+      "taxRate": 0.21,
+      "albaran": "CH10355",
+      "deliveryNote": "CH10355"
+    },
+    {
+      "id": "11",
+      "description": "FRESA EC040B12-4C04 IC-900",
+      "quantity": 4,
+      "unitPrice": 51.5,
+      "taxRate": 0.21,
+      "albaran": "CH1055",
+      "deliveryNote": "CH1055"
+    },
+    {
+      "id": "14",
+      "description": "C-H10359 FRESA M.D. EC120B25-4C12 IC-900",
+      "quantity": 4,
+      "unitPrice": 147.0,
+      "taxRate": 0.21,
+      "albaran": "CH10359",
+      "deliveryNote": "CH10359"
+    },
+    {
+      "id": "15",
+      "description": "C-H20238 FRESA EFS-B44 06-14/20C06-57 900",
+      "quantity": 4,
+      "unitPrice": 111.0,
+      "taxRate": 0.21,
+      "albaran": "CH20238",
+      "deliveryNote": "CH20238"
+    },
+    {
+      "id": "16",
+      "description": "C-H20255 FRESA EFS-B44 16-34/50C16-100 900",
+      "quantity": 1,
+      "unitPrice": 383.0,
+      "taxRate": 0.21,
+      "albaran": "CH20255",
+      "deliveryNote": "CH20255"
+    },
+    {
+      "id": "19",
+      "description": "C-H10315 PLAQUITA M.D. T490 LNMX 0804PN-R IC-928",
+      "quantity": 20,
+      "unitPrice": 19.9,
+      "taxRate": 0.21,
+      "albaran": "CH10315",
+      "deliveryNote": "CH10315"
+    },
+    {
+      "id": "20",
+      "description": "PENTA 24-1.5-ISO IC908",
+      "quantity": 5,
+      "unitPrice": 45.8,
+      "taxRate": 0.21,
+      "albaran": "CH2018",
+      "deliveryNote": "CH2018"
+    },
+    {
+      "id": "21",
+      "description": "CH2019 PENTA 24-2.0-ISO IC908",
+      "quantity": 5,
+      "unitPrice": 45.8,
+      "taxRate": 0.21,
+      "albaran": "CH2019",
+      "deliveryNote": "CH2019"
+    },
+    {
+      "id": "22",
+      "description": "C-H2116 PLAQUITA M.D. CNGN 120708 T IN23",
+      "quantity": 20,
+      "unitPrice": 16.4,
+      "taxRate": 0.21,
+      "albaran": "CH2116",
+      "deliveryNote": "CH2116"
+    },
+    {
+      "id": "23",
+      "description": "C-H20256 PLAQUITA M.D. WNMG 080408-GN IC8250",
+      "quantity": 20,
+      "unitPrice": 15.3,
+      "taxRate": 0.21,
+      "albaran": "CH20256",
+      "deliveryNote": "CH20256"
+    },
+    {
+      "id": "24",
+      "description": "CH10425 11121010 BROCA M/CIL.60 ║ DIA.8,5X10,5 HSS",
+      "quantity": 2,
+      "unitPrice": 86.33,
+      "taxRate": 0.21,
+      "albaran": "CH10425",
+      "deliveryNote": "CH10425"
+    },
+    {
+      "id": "25",
+      "description": "11106003 BROCA BIDIAM.DIA.3,4X2,5 HSS",
+      "quantity": 10,
+      "unitPrice": 9.32,
+      "taxRate": 0.21,
+      "albaran": "CH1001",
+      "deliveryNote": "CH1001"
+    },
+    {
+      "id": "26",
+      "description": "11020318 BROCA DIN-338 RN DIA.4,25 HSS",
+      "quantity": 10,
+      "unitPrice": 1.82,
+      "taxRate": 0.21,
+      "albaran": "CH4020",
+      "deliveryNote": "CH4020"
+    },
+    {
+      "id": "27",
+      "description": "11020341 BROCA DIN-338 RN DIA.5,00 HSS",
+      "quantity": 10,
+      "unitPrice": 1.58,
+      "taxRate": 0.21,
+      "albaran": "CH4023",
+      "deliveryNote": "CH4023"
+    },
+    {
+      "id": "28",
+      "description": "11020466 BROCA DIN-338 RN DIA.10,50 HSS",
+      "quantity": 5,
+      "unitPrice": 3.78,
+      "taxRate": 0.21,
+      "albaran": "CH4045",
+      "deliveryNote": "CH4045"
+    },
+    {
+      "id": "29",
+      "description": "CH1066 11001031 BROCA DIN-333A DIA.3,15X8 HSS",
+      "quantity": 10,
+      "unitPrice": 3.99,
+      "taxRate": 0.21,
+      "albaran": "CH1066",
+      "deliveryNote": "CH1066"
+    },
+    {
+      "id": "30",
+      "description": "CH1161 11001025 BROCA DIN-333A DIA.2,5X6,3 HSS",
+      "quantity": 10,
+      "unitPrice": 3.35,
+      "taxRate": 0.21,
+      "albaran": "CH1161",
+      "deliveryNote": "CH1161"
+    },
+    {
+      "id": "31",
+      "description": "11121006 BROCA M/CIL.60° DIA.5X6,4 HSS",
+      "quantity": 2,
+      "unitPrice": 58.91,
+      "taxRate": 0.21,
+      "albaran": "CH10468",
+      "deliveryNote": "CH10468"
+    },
+    {
+      "id": "32",
+      "description": "BROCHA HEXAGONO 12 MM. REF.G16-E12",
+      "quantity": 2,
+      "unitPrice": 65.0,
+      "taxRate": 0.21,
+      "albaran": "CH1073",
+      "deliveryNote": "CH1073"
+    },
+    {
+      "id": "33",
+      "description": "CH0096 MACHO MAQ. A70 M-4X0,70 HSSE",
+      "quantity": 5,
+      "unitPrice": 11.26,
+      "taxRate": 0.21,
+      "albaran": "CH0096",
+      "deliveryNote": "CH0096"
+    },
+    {
+      "id": "34",
+      "description": "CH0019 MACHO MAQ. A15 M-4X0,70 HSSE",
+      "quantity": 5,
+      "unitPrice": 9.93,
+      "taxRate": 0.21,
+      "albaran": "CH0019",
+      "deliveryNote": "CH0019"
+    }
+  ],
+  "legalMonetaryTotal": {
+    "payableAmount": 4863.96
+  },
+  "taxTotal": {
+    "taxAmount": 844.16,
+    "taxSubtotals": [
+      {
+        "taxRate": 0.21,
+        "taxableAmount": 4019.8,
+        "taxAmount": 844.16,
+        "taxCategoryCode": "S"
+      }
+    ]
+  },
+  "paymentTerms": {
+    "dueDate": "2025-10-20",
+    "note": "Transferencia"
+  },
+  "paymentInstruction": {
+    "paymentMeansCode": "42",
+    "paymentId": null,
+    "account": {
+      "iban": "ES0800491878902210048864",
+      "bic": "BSCHESMM",
+      "bankName": null,
+      "accountName": null
+    },
+    "payee": {
+      "name": "KORTA S.A.",
+      "taxId": "ESA08508418",
+      "address": {
+        "streetName": "2",
+        "cityName": "Zumaia",
+        "postalZone": "20750",
+        "country": "ES",
+        "region": null,
+        "buildingNumber": null
+      },
+      "contact": null
+    }
+  }
+}

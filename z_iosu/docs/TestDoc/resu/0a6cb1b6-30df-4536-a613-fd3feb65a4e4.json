@@ -1,0 +1,153 @@
+{
+  "result_id": "0a6cb1b6-30df-4536-a613-fd3feb65a4e4",
+  "original_file_id": "0a6cb1b6-30df-4536-a613-fd3feb65a4e4",
+  "original_filename": "2-bloquea-facturaivaf-2025-120-korta s.a.u2025616102555.pdf",
+  "original_file_type": "pdf",
+  "storage_path": "2-bloquea-facturaivaf-2025-120-korta s.a.u2025616102555_transformado_0a6cb1b6-30df-4536-a613-fd3feb65a4e4.pdf",
+  "json_path": "C:\\IA\\apps\\IA-PDF-Excel\\app\\data\\processed\\json\\0a6cb1b6-30df-4536-a613-fd3feb65a4e4.json",
+  "schema_name": "vFinalSchemaExtractor",
+  "processed_date": "2025-11-12T14:52:35.421858",
+  "processing_status": "completed",
+  "data": {
+    "InvoiceDetails": {
+      "InvoiceNumber": "F / 2025 / 120",
+      "InvoiceDate": "2025-06-15",
+      "PaymentMethod": "CONFIRMING A 45 DÍAS"
+    },
+    "SupplierDetails": {
+      "Name": "MECANIZADOS EKIMEN S.L.",
+      "VAT": "B20782397",
+      "Address": "Pol. Ind. J.M Korta Parcela A-6-1, 20750 ZUMAIA (GIPUZKO)",
+      "Contact": "943 865288 - ekimen@ekimen.net"
+    },
+    "CustomerDetails": {
+      "Name": "KORTA S.A.U",
+      "Address": "J.M KORTA INDUSTRIGUNEA,2, 20750 ZUMAIA, GIPUZKO",
+      "VAT": "A20095378"
+    },
+    "Items": [
+      {
+        "Albaran": "2025 / 253",
+        "deliveryNote": "22502011",
+        "Date": "2025-06-15",
+        "Description": "C-S1003 OF 110381 TUERCAS S/ PLANO",
+        "Quantity": 8,
+        "UnitPrice": 87.02,
+        "LineTotal": 696.16
+      },
+      {
+        "Albaran": "2025 / 257",
+        "deliveryNote": "22502011",
+        "Date": "2025-06-15",
+        "Description": "C-S1003 OF 110274 TUERCAS S/ PLANO",
+        "Quantity": 20,
+        "UnitPrice": 64.26,
+        "LineTotal": 1285.2
+      },
+      {
+        "Albaran": "2025 / 262",
+        "deliveryNote": "22502011",
+        "Date": "2025-06-15",
+        "Description": "C-S1003 OF 109488 TUERCAS S/ PLANO",
+        "Quantity": 5,
+        "UnitPrice": 75.42,
+        "LineTotal": 377.1
+      },
+      {
+        "Albaran": "2025 / 262",
+        "deliveryNote": "22502011",
+        "Date": "2025-06-15",
+        "Description": "C-S1003 OF 110272 TUERCAS S/ PLANO",
+        "Quantity": 10,
+        "UnitPrice": 128.52,
+        "LineTotal": 1285.2
+      },
+      {
+        "Albaran": "2025 / 262",
+        "deliveryNote": "22502011",
+        "Date": "2025-06-15",
+        "Description": "C-S1003 OF 110297 TUERCAS S/ PLANO",
+        "Quantity": 4,
+        "UnitPrice": 129.68,
+        "LineTotal": 518.72
+      },
+      {
+        "Albaran": "2025 / 262",
+        "deliveryNote": "22502011",
+        "Date": "2025-06-15",
+        "Description": "C-S1003 OF 110251 TUERCAS S/ PLANO",
+        "Quantity": 5,
+        "UnitPrice": 200.49,
+        "LineTotal": 1002.45
+      },
+      {
+        "Albaran": "2025 / 262",
+        "deliveryNote": "22502011",
+        "Date": "2025-06-15",
+        "Description": "C-S1003 OF 110369 TUERCAS S/ PLANO",
+        "Quantity": 5,
+        "UnitPrice": 94.27,
+        "LineTotal": 471.35
+      },
+      {
+        "Albaran": "2025 / 262",
+        "deliveryNote": "22502011",
+        "Date": "2025-06-15",
+        "Description": "C-S1003 OF 110300 TUERCAS S/ PLANO",
+        "Quantity": 6,
+        "UnitPrice": 128.52,
+        "LineTotal": 771.12
+      }
+    ],
+    "Taxes": {
+      "Type": "IVA",
+      "Amount": 1345.53,
+      "Percentage": ""
+    },
+    "InvoiceTotals": {
+      "Currency": "€",
+      "Subtotal": 6407.3,
+      "TaxTotal": 1345.53,
+      "GrandTotal": 7752.83
+    },
+    "DueDates": [
+      {
+        "DueDate": "2025-08-10",
+        "Amount": 7752.83
+      }
+    ]
+  },
+  "ErroresList": [
+    {
+      "loglevel": "warning",
+      "logmessage": "Total tokens estimated: 14336 for 1 images"
+    },
+    {
+      "loglevel": "infousuario",
+      "logmessage": {
+        "model": "qwen3-vl:8b-instruct",
+        "temperature": 0.0,
+        "num_ctx": "OJOOOO14336",
+        "num_predict": "Top_p 0.95 Top_k 0.0 Min_P 0.0 Repetition_penalty 0.0",
+        "think": "False",
+        "top_p": 0.95,
+        "System_prompt": "build_system_promptSimple()",
+        "OLLAMA_FLASH_ATTENTION": true,
+        "OLLAMA_KV_CACHE_TYPE": "none",
+        "Vision": "OpenAI: False, vision: True tools: True thinking: False"
+      }
+    },
+    {
+      "loglevel": "info",
+      "logmessage": "Extrayendo data con AI"
+    },
+    {
+      "loglevel": "info",
+      "logmessage": "Modelo Descargado Correctamente: qwen3-vl:8b-instruct"
+    },
+    {
+      "loglevel": "warning",
+      "logmessage": "READ_ONLY_DB is True, skipping database insertion"
+    }
+  ]
+}

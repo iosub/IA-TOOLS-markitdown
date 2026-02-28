@@ -1,0 +1,99 @@
+{
+  "id": "02 2500407",
+  "serie": "",
+  "invoiceTypeCode": null,
+  "issueDate": "2025-03-27",
+  "operationDate": "2025-03-20",
+  "dueDate": "2025-05-20",
+  "documentCurrency": "EUR",
+  "taxCurrency": null,
+  "buyerOrderReference": null,
+  "contractReference": null,
+  "projectReference": null,
+  "notes": null,
+  "delivery": null,
+  "seller": {
+    "name": "RAZYA, S.A.",
+    "taxId": "A01053552",
+    "partyId": null,
+    "address": {
+      "streetName": "San Miguel de Acha, 7-9",
+      "cityName": "Vitoria-Gasteiz",
+      "postalZone": "01010",
+      "country": null,
+      "region": null,
+      "buildingNumber": null
+    },
+    "contact": null
+  },
+  "buyer": {
+    "name": "",
+    "taxId": "ESX0000000A",
+    "partyId": null,
+    "address": null,
+    "contact": null
+  },
+  "documentLevelAllowancesCharges": null,
+  "taxTotal": {
+    "taxAmount": 0.0,
+    "taxSubtotals": [
+      {
+        "taxCategoryCode": null,
+        "taxRate": 0.21,
+        "taxableAmount": 128.0,
+        "taxAmount": 26.88,
+        "exemptionReason": null
+      }
+    ]
+  },
+  "legalMonetaryTotal": {
+    "lineExtensionAmount": 0.0,
+    "taxExclusiveAmount": 0.0,
+    "taxInclusiveAmount": 0.0,
+    "allowanceTotalAmount": null,
+    "chargeTotalAmount": null,
+    "prepaidAmount": null,
+    "payableRoundingAmount": null,
+    "payableAmount": 0.0
+  },
+  "paymentTerms": {
+    "note": "Transferencia bancaria 60 días",
+    "dueDate": "2025-05-20"
+  },
+  "paymentInstruction": null,
+  "prepaidAmount": null,
+  "roundingAmount": null,
+  "lines": [
+    {
+      "id": "1",
+      "note": null,
+      "description": "NITRURACION GASEOSA Ud",
+      "item": null,
+      "quantity": 64.0,
+      "unitPrice": 1.0,
+      "lineExtensionAmount": null,
+      "allowancesCharges": null,
+      "taxRate": 0.21,
+      "taxCategoryCode": null,
+      "accountingCost": null,
+      "albaran": "104258",
+      "deliveryNote": null
+    },
+    {
+      "id": "2",
+      "note": null,
+      "description": "NITRURACION GASEOSA Ud",
+      "item": null,
+      "quantity": 64.0,
+      "unitPrice": 1.0,
+      "lineExtensionAmount": null,
+      "allowancesCharges": null,
+      "taxRate": 0.21,
+      "taxCategoryCode": null,
+      "accountingCost": null,
+      "albaran": "104484",
+      "deliveryNote": null
+    }
+  ],
+  "additionalDocuments": null
+}

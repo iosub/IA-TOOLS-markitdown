@@ -1,0 +1,2 @@
+Serie,Numero,Fecha,FechaOperacion,Moneda,Cliente_NIF,Cliente_Nombre,Cliente_Direccion,Cliente_CP,Cliente_Ciudad,Cliente_Pais,Proveedor_NIF,Proveedor_Nombre,BaseImponible,CuotaIVA,TipoIVA_Predominante,TotalFactura
+,02 2500407,2025-03-27,2025-03-20,EUR,ESX0000000A,,,,,,A01053552,"RAZYA, S.A.",0.0,0.0,21.0,0.0

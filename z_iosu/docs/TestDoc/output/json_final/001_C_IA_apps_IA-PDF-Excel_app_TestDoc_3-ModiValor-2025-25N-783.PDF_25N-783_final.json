@@ -1,0 +1,108 @@
+{
+  "id": "25N-783",
+  "serie": "",
+  "invoiceTypeCode": null,
+  "issueDate": "2025-04-10",
+  "operationDate": null,
+  "dueDate": null,
+  "documentCurrency": "EUR",
+  "taxCurrency": null,
+  "buyerOrderReference": null,
+  "contractReference": null,
+  "projectReference": null,
+  "notes": null,
+  "delivery": null,
+  "seller": {
+    "name": "KORTA, S.A",
+    "taxId": null,
+    "partyId": null,
+    "address": {
+      "streetName": "Joxe Mari Korta Industrigunea 2",
+      "cityName": "ZUMAIA",
+      "postalZone": "20750",
+      "country": null,
+      "region": null,
+      "buildingNumber": null
+    },
+    "contact": null
+  },
+  "buyer": {
+    "name": "Cliente",
+    "taxId": null,
+    "partyId": null,
+    "address": null,
+    "contact": null
+  },
+  "documentLevelAllowancesCharges": null,
+  "taxTotal": {
+    "taxAmount": 0.0,
+    "taxSubtotals": [
+      {
+        "taxCategoryCode": null,
+        "taxRate": 0.21,
+        "taxableAmount": 994.6,
+        "taxAmount": 208.87,
+        "exemptionReason": null
+      }
+    ]
+  },
+  "legalMonetaryTotal": {
+    "lineExtensionAmount": 0.0,
+    "taxExclusiveAmount": 0.0,
+    "taxInclusiveAmount": 0.0,
+    "allowanceTotalAmount": null,
+    "chargeTotalAmount": null,
+    "prepaidAmount": null,
+    "payableRoundingAmount": null,
+    "payableAmount": 0.0
+  },
+  "paymentTerms": {
+    "note": "Pago domiciliado a 60 dias",
+    "dueDate": "2025-06-10"
+  },
+  "paymentInstruction": null,
+  "prepaidAmount": null,
+  "roundingAmount": null,
+  "lines": [
+    {
+      "id": "1",
+      "note": null,
+      "description": "Calibración transductores de fuerza (-100 kg) Certificado-016525 Calibración no acreditada de instrumento de medida de fuerzas marca DS EUROPE _ modelo 546QD de 60kg_",
+      "item": null,
+      "quantity": 1.0,
+      "unitPrice": 400.0,
+      "lineExtensionAmount": null,
+      "allowancesCharges": null,
+      "taxRate": 0.21,
+      "taxCategoryCode": null,
+      "accountingCost": null
+    },
+    {
+      "id": "2",
+      "note": null,
+      "description": "Calibración transductores de fuerza (-100 kg) Certificado-016625 Calibración no acreditada de instrumento de medida de fuerzas marca DS EUROPE _ modelo 546QD de 60kg",
+      "item": null,
+      "quantity": 1.0,
+      "unitPrice": 400.0,
+      "lineExtensionAmount": null,
+      "allowancesCharges": null,
+      "taxRate": 0.21,
+      "taxCategoryCode": null,
+      "accountingCost": null
+    },
+    {
+      "id": "3",
+      "note": null,
+      "description": "Gastos de desplazamiento",
+      "item": null,
+      "quantity": 1.0,
+      "unitPrice": 194.6,
+      "lineExtensionAmount": null,
+      "allowancesCharges": null,
+      "taxRate": 0.21,
+      "taxCategoryCode": null,
+      "accountingCost": null
+    }
+  ],
+  "additionalDocuments": null
+}

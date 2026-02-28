@@ -1,0 +1,99 @@
+{
+  "result_id": "90b0ebad-e717-45de-8a92-05c3fdce8c96",
+  "original_file_id": "90b0ebad-e717-45de-8a92-05c3fdce8c96",
+  "original_filename": "5-albaran-lineas-factura2-02-.pdf",
+  "original_file_type": "pdf",
+  "storage_path": "5-albaran-lineas-factura2-02-_transformado_90b0ebad-e717-45de-8a92-05c3fdce8c96.pdf",
+  "json_path": "C:\\IA\\apps\\IA-PDF-Excel\\app\\data\\processed\\json\\90b0ebad-e717-45de-8a92-05c3fdce8c96.json",
+  "schema_name": "vFinalSchemaExtractor",
+  "processed_date": "2025-11-12T14:51:31.123387",
+  "processing_status": "completed",
+  "data": {
+    "InvoiceDetails": {
+      "InvoiceNumber": "02 2500407",
+      "InvoiceDate": "2025-03-20",
+      "PaymentMethod": "Transferencia bancaria 60 días"
+    },
+    "SupplierDetails": {
+      "Name": "RAZYA, S.A.",
+      "VAT": "A01053552",
+      "Address": "San Miguel de Acha, 7-9, 01010 Vitoria-Gasteiz",
+      "Contact": "tfn.945223058"
+    },
+    "CustomerDetails": {
+      "Name": "KORTA, S.A.U.",
+      "Address": "JOXE MARI KORTA INDUSTRIGUNEA, 2, 20750, ZUMAIA, GUIPUZCOA",
+      "VAT": "A20095378"
+    },
+    "Items": [
+      {
+        "Albaran": "104258",
+        "deliveryNote": "28/02/2025",
+        "Date": "2025-02-28",
+        "Description": "NITRURACION GASEOSA",
+        "Quantity": "1,00",
+        "UnitPrice": "64,0000",
+        "LineTotal": "64,00"
+      },
+      {
+        "Albaran": "104484",
+        "deliveryNote": "17/03/2025",
+        "Date": "2025-03-17",
+        "Description": "NITRURACION GASEOSA",
+        "Quantity": "1,00",
+        "UnitPrice": "64,0000",
+        "LineTotal": "64,00"
+      }
+    ],
+    "Taxes": {
+      "Type": "21%",
+      "Amount": "26,88",
+      "Percentage": "21,00"
+    },
+    "InvoiceTotals": {
+      "Currency": "EUR",
+      "Subtotal": "128,00",
+      "TaxTotal": "26,88",
+      "GrandTotal": "154,88"
+    },
+    "DueDates": [
+      {
+        "DueDate": "2025-05-20",
+        "Amount": "154,88"
+      }
+    ]
+  },
+  "ErroresList": [
+    {
+      "loglevel": "warning",
+      "logmessage": "Total tokens estimated: 14336 for 1 images"
+    },
+    {
+      "loglevel": "infousuario",
+      "logmessage": {
+        "model": "qwen3-vl:8b-instruct",
+        "temperature": 0.0,
+        "num_ctx": "OJOOOO14336",
+        "num_predict": "Top_p 0.95 Top_k 0.0 Min_P 0.0 Repetition_penalty 0.0",
+        "think": "False",
+        "top_p": 0.95,
+        "System_prompt": "build_system_promptSimple()",
+        "OLLAMA_FLASH_ATTENTION": true,
+        "OLLAMA_KV_CACHE_TYPE": "none",
+        "Vision": "OpenAI: False, vision: True tools: True thinking: False"
+      }
+    },
+    {
+      "loglevel": "info",
+      "logmessage": "Extrayendo data con AI"
+    },
+    {
+      "loglevel": "info",
+      "logmessage": "Modelo Descargado Correctamente: qwen3-vl:8b-instruct"
+    },
+    {
+      "loglevel": "warning",
+      "logmessage": "READ_ONLY_DB is True, skipping database insertion"
+    }
+  ]
+}

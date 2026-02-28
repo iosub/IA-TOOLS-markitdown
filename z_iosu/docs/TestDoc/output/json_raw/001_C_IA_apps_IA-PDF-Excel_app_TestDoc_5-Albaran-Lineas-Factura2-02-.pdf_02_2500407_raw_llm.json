@@ -1,0 +1,105 @@
+{
+  "id": "02 2500407",
+  "serie": "",
+  "issueDate": "2025-03-27",
+  "operationDate": "2025-03-20",
+  "dueDate": "2025-05-20",
+  "documentCurrency": "EUR",
+  "buyerOrderReference": "22500786, 22501041",
+  "notes": [
+    "Inscrita en el Registro Mercantil de Alava, Tomo 390, Libro 296, Sección Tercera, Folio 10, Hoja 3.416, Inscripción 1ª.",
+    "De acuerdo con la normativa española y europea sobre protección de datos personales...",
+    "NOTA: No admitimos ninguna reclamación si el material sufriera operación posterior al tratamiento."
+  ],
+  "delivery": {
+    "buyerOrderReference": "22500786, 22501041"
+  },
+  "seller": {
+    "name": "RAZYA, S.A.",
+    "address": {
+      "street": "San Miguel de Acha, 7-9",
+      "city": "Vitoria-Gasteiz",
+      "postalCode": "01010",
+      "country": "Spain"
+    },
+    "taxId": "A01053552",
+    "phone": "+34945223058",
+    "website": "www.razya.com"
+  },
+  "buyer": {
+    "name": "KORTA, S.A.U.",
+    "address": {
+      "street": "Joxe Mari Korta Industrialdea, 2",
+      "city": "Zumaia",
+      "postalCode": "20750",
+      "country": "Spain"
+    },
+    "taxId": "A20095378"
+  },
+  "documentLevelAllowancesCharges": [],
+  "taxTotal": {
+    "taxAmount": 26.88,
+    "taxSubtotals": [
+      {
+        "taxRate": 21,
+        "taxableAmount": 128,
+        "taxAmount": 26.88
+      }
+    ]
+  },
+  "legalMonetaryTotal": {
+    "lineExtensionAmount": 154.88,
+    "taxExclusiveAmount": 128,
+    "taxInclusiveAmount": 154.88,
+    "payableAmount": 154.88
+  },
+  "paymentTerms": {
+    "paymentMeansCode": "Transferencia bancaria",
+    "dueDate": "2025-05-20"
+  },
+  "prepaidAmount": null,
+  "roundingAmount": null,
+  "lines": [
+    {
+      "id": "1",
+      "description": "NITRURACION GASEOSA Ud",
+      "quantity": 1.0,
+      "unitCode": "Ud",
+      "price": {
+        "amount": 64
+      },
+      "tax": [
+        {
+          "percent": 21,
+          "category": "IVA"
+        }
+      ],
+      "lineExtensionAmount": 64,
+      "delivery": {
+        "albaranNumber": "104258",
+        "date": "2025-02-28"
+      }
+    },
+    {
+      "id": "2",
+      "description": "NITRURACION GASEOSA Ud",
+      "quantity": 1.0,
+      "unitCode": "Ud",
+      "price": {
+        "amount": 64
+      },
+      "tax": [
+        {
+          "percent": 21,
+          "category": "IVA"
+        }
+      ],
+      "lineExtensionAmount": 64,
+      "delivery": {
+        "albaranNumber": "104484",
+        "date": "2025-03-17"
+      }
+    }
+  ],
+  "additionalDocuments": []
+}
